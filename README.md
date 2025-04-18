@@ -15,3 +15,7 @@ Step 2:
 2. Multiple B1 CrCEST signal: Step2_pwrdependentfit.m
 3.CrCEST signal change due to pH reduction (0.2) as a function of exchange rate :Step2_phresponse.m
 .
+
+
+For the PLOF fitting to extract amide, amine and Guanidino CEST contrasts, pleaee refer to
+https://github.com/Kexin-Wang/Guan_amine_amideCEST_stroke_mice
